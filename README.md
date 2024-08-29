@@ -2,7 +2,7 @@
 **AI-Driven Dynamic Fuzz Testing for IoT Security: Detection and Mitigation of DDoS Attacks Using Graph Neural Networks**
 
 ## Overview 🌐
-FuzzAIoT is an advanced security framework designed to detect and mitigate Distributed Denial of Service (DDoS) attacks in IoT networks. By leveraging Dynamic Fuzz Testing combined with Graph Neural Networks (GNNs), this project provides a robust defense mechanism to ensure the integrity, availability, and reliability of IoT systems.
+`FuzzAIoT` is an advanced security framework designed to detect and mitigate Distributed Denial of Service (DDoS) attacks in IoT networks. By leveraging Dynamic Fuzz Testing combined with Graph Neural Networks (GNNs), this project provides a robust defense mechanism to ensure the integrity, availability, and reliability of IoT systems.
 
 ## Features ✨
 - **Dynamic Fuzz Testing**: Uncovers potential vulnerabilities in IoT networks by simulating various attack scenarios.
@@ -63,5 +63,5 @@ FuzzAIoT/
 Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request.
 
 ## License 📄
-This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
+This project is licensed under the `GNU Affero General Public License v3.0`. See the LICENSE file for details.
 
