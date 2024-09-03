@@ -16,7 +16,7 @@ FuzzAIoT/
 ├── data/                   # Datasets used for training and validation
 ├── models/                 # Trained GNN models
 ├── scripts/                # Scripts for data processing, model training, and evaluation
-├── simulations/            # NS3 simulation files
+├── outputs/                # CSV files after converting NS3 simulation files
 ├── README.md               # Project documentation
 └── LICENSE                 # License file
 ```
