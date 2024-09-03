@@ -24,7 +24,7 @@ FuzzAIoT/
 ## Installation & Setup 🛠️
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/FuzzAIoT.git
+   git clone https://github.com/footcricket05/FuzzAIoT.git
    cd FuzzAIoT
    ```
 
@@ -39,14 +39,9 @@ FuzzAIoT/
    ./waf --run your_simulation_script
    ```
 
-4. **Train the GNN model**:
+4. **Train & Evaluate the GNN model**:
    ```bash
-   python scripts/train_gnn.py
-   ```
-
-5. **Evaluate the model**:
-   ```bash
-   python scripts/evaluate_gnn.py
+   python scripts/GNN_Identification.py
    ```
 
 ## Usage 🖥️
