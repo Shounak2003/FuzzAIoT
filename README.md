@@ -89,9 +89,9 @@ Here’s the updated contributors section with specific roles:
 ## Contributors 💡  
 We had a strong, dedicated team contributing to the success of this project:  
 
-- **Shaurya Srinet** (footcricket05) - Lead Developer, **NS3**, **IoT**, and **AI/ML** Integration  
-- **Charvi Jain** (charvijain12) - **AI/ML Development**, **Agile Scrum** Developer and Documentation  
-- **Shounak Chandra** (Shounak2003) - **IoT**, **Agile Scrum** Developer and Documentation  
+- **Shaurya Srinet** (@footcricket05) - Lead Developer, **NS3**, **IoT**, and **AI/ML** Integration  
+- **Charvi Jain** (@charvijain12) - **AI/ML Development**, **Agile Scrum** Developer and Documentation  
+- **Shounak Chandra** (@Shounak2003) - **IoT**, **Agile Scrum** Developer and Documentation  
 
 ## Contributing 🤝  
 We welcome contributions from the community! Feel free to fork this repository, create a feature branch, and submit a pull request. Your input is valuable in enhancing the robustness and effectiveness of `FuzzAIoT`.
