@@ -23,7 +23,7 @@ This project was developed using the **Agile Scrum** methodology. Our team organ
 ### Microsoft Planner Screenshot  
 Here’s a snapshot of our **Microsoft Planner Board** showcasing the breakdown of tasks for each sprint:  
 
-![MS Planner Screenshot](./assets/ms_planner_screenshot.jpg)
+![Review 3 MS Planner](https://github.com/user-attachments/assets/1cff9432-f960-4c87-97e4-1f42f2222f91)
 
 ## Key Features ✨  
 - **Dynamic Fuzz Testing**: Simulates various attack scenarios to uncover vulnerabilities within IoT networks, providing a proactive approach to security.
